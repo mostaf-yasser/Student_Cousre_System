@@ -1,0 +1,4 @@
+std_id,f_name,l_name,birth,phone,email,gender
+1,Ali,Hassan,2002-05-10,01012345678,ali@example.com,M
+2,Sara,Mahmoud,2001-11-22,01098765432,sara@example.com,F
+3,Youssef,Khaled,2003-03-15,01055566677,youssef@example.com,M
